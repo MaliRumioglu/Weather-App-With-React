@@ -7,7 +7,7 @@ import { Veriler } from './Veriler';
 
 function App() {
 
-  const key = "c804b3688b5a714a97b6d7309486d4a5";
+  const key = "[YOUR API KEY]";
   const [search,setSearch] = useState();
   const [city, setCity] = useState(null);
 
